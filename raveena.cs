@@ -4,7 +4,7 @@ class Program
 {
    static void Mains()
    {
-       Console.Write("Initial value");
+       Console.Write("Change init value");
         
    }
 }
